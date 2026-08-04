@@ -11,7 +11,7 @@ permissions:
 
 env:
   AWS_REGION: ap-south-1
-  STACK_NAME: devops-ai-portfolio
+  STACK_NAME: my-first-app
 
 jobs:
   deploy:
