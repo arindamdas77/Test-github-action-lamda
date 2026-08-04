@@ -14,3 +14,4 @@ for event in events:
     print("=" * 60)
     print("Request:", event["rawPath"])
     print(lambda_handler(event, None))
+
